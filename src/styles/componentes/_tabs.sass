@@ -172,6 +172,7 @@
     align-items: center
     justify-content: center
     position: relative
+    background-color: #F3FCEA
     &:after, &:before
       content: ''
       display: block
@@ -202,6 +203,7 @@
 
     &--active
       border-bottom: 4px solid !important
+      background-color: $white !important
       &:before
         width: 0
         height: 0
@@ -210,11 +212,14 @@
         border-top: 10px solid
         left: 50%
         top: calc(100% + 6px)
+        
 
       &:active, &:focus, &:hover
         background-color: transparent
+        
       .tabs-b__tab__title
         font-weight: $base-bold-font-weight
+        
 
   &.color-primario
     .tabs-c__tab--active
