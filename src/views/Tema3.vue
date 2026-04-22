@@ -212,7 +212,7 @@
         AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
           .row(titulo="Según el alcance territorial")
             .col
-              p.mb-2 La asociatividad puede desarrollarse en diferentes escalas geográficas según la cobertura de sus objetivos y el número de actores que integra. Esta dimensión permite identificar si la iniciativa responde a necesidades locales, regionales o de alcance nacional:
+              p La asociatividad puede desarrollarse en diferentes escalas geográficas según la cobertura de sus objetivos y el número de actores que integra. Esta dimensión permite identificar si la iniciativa responde a necesidades locales, regionales o de alcance nacional:
               
               ul.lista-ul
                 li #[b • Local:] agrupa personas o unidades productivas de una misma comunidad o municipio. Ejemplo: asociación de paneleros del municipio de Vélez, Santander.
@@ -221,7 +221,7 @@
             
           .row(titulo="Según el sector económico")
             .col
-              La asociatividad se aplica de manera transversal en distintos sectores productivos, adaptándose a las condiciones y necesidades propias de cada uno. Esta dimensión permite reconocer en qué campo de la economía se desarrolla la iniciativa colectiva:
+              p La asociatividad se aplica de manera transversal en distintos sectores productivos, adaptándose a las condiciones y necesidades propias de cada uno. Esta dimensión permite reconocer en qué campo de la economía se desarrolla la iniciativa colectiva:
               ul.lista-ul
                 li #[b • Agrícola:] organiza productores del campo para mejorar la producción y la comercialización de manera colectiva. Ejemplo: cooperativas de cacaoteros en el Huila y Nariño.
                 li #[b • Financiero:] articula el ahorro y el crédito solidario sin intermediarios bancarios, mejorando las condiciones de acceso al capital. Ejemplo: fondos de empleados de empresas del sector público.
@@ -230,7 +230,7 @@
             
           .row(titulo="Según la naturaleza del vínculo entre sus participantes")
             .col
-              p.mb-2 la asociatividad se clasifica según el tipo de relación que se establece entre quienes participan. Esta dimensión es clave para entender si la colaboración se produce entre iguales o entre actores de distintos niveles de la cadena productiva:
+              p La asociatividad se clasifica según el tipo de relación que se establece entre quienes participan. Esta dimensión es clave para entender si la colaboración se produce entre iguales o entre actores de distintos niveles de la cadena productiva:
               ul.lista-ul
                 li #[b • Asociatividad horizontal:] se da entre organizaciones o personas de un mismo nivel productivo o social que se unen para complementar capacidades sin relaciones de subordinación. Ejemplo: una red de pequeños productores rurales que comparte maquinaria y canales de distribución.
                 li #[b • Asociatividad vertical:] se da entre actores de diferentes eslabones de una cadena productiva, desde la producción hasta la comercialización, que se articulan para generar mayor valor agregado. Ejemplo: una alianza entre productores, transformadores y distribuidores de un mismo producto agrícola.
@@ -238,7 +238,7 @@
             
           .row(titulo="Según el grado de formalización")
             .col
-              p.mb-2 el grado de formalización determina el reconocimiento jurídico de la asociación y su capacidad para actuar legalmente. Se identifican tres niveles:
+              p El grado de formalización determina el reconocimiento jurídico de la asociación y su capacidad para actuar legalmente. Se identifican tres niveles:
               ul.lista-ul
                 li #[b • Informal:] se expresa en acuerdos de colaboración sin estructura jurídica reconocida por el Estado. Opera sobre la base de la confianza y el compromiso mutuo, pero carece de personería jurídica y de acceso a instrumentos financieros formales.
                 li #[b • Semiformal:] cuenta con estatutos propios y mecanismos de organización internos, pero no ha completado su registro ante las entidades competentes. Puede desarrollar actividades colectivas, aunque con limitaciones para contratar, acceder a créditos o participar en convocatorias públicas.
@@ -372,7 +372,7 @@
           p(numero="2" titulo="Articulación comercial") Relación sostenida entre organizaciones que ofrecen y demandan bienes o servicios, mediada por un agente intermediario (bróker o gestor de negocios). Permite a organizaciones pequeñas acceder a mercados que individualmente no podrían alcanzar por falta de capacidad de negociación.
           p(numero="3" titulo="Alianzas en cadenas productivas") Acuerdos entre actores que participan en distintas etapas de un mismo proceso: producción, transformación, distribución y comercialización. Cada eslabón de la cadena fortalece su competitividad al operar de manera articulada con los demás, generando mayor valor para el producto final.
           p(numero="4" titulo="Clústeres") Concentraciones geográficas de empresas e instituciones que actúan en un mismo campo y obtienen ventajas competitivas por su cercanía territorial. Según Porter (1990), esta proximidad facilita compartir infraestructura, conocimiento especializado y redes de contacto de manera más eficiente que en contextos dispersos.
-          p(numero="5" titulo="Joint venture (proyecto conjunto)") sociedad constituida por dos o más empresas con personería jurídica independiente que unen recursos, tecnología o capacidad productiva para desarrollar una actividad específica. Los beneficios y los riesgos se comparten en proporción a lo que cada parte aporta. Ejemplos reconocidos: McDonald's con Coca-Cola; Nokia con Siemens; Hisun y Pfizer en el sector farmacéutico.
+          p(numero="5" titulo="<em>Joint venture</em> (proyecto conjunto)") Sociedad constituida por dos o más empresas con personería jurídica independiente que unen recursos, tecnología o capacidad productiva para desarrollar una actividad específica. Los beneficios y los riesgos se comparten en proporción a lo que cada parte aporta. Ejemplos reconocidos: McDonald's con Coca-Cola; Nokia con Siemens; Hisun y Pfizer en el sector farmacéutico.
           p(numero="6" titulo="Consorcios") Acuerdo formal mediante el cual dos o más personas u organizaciones se asocian de manera activa y directa para participar en un negocio o proyecto específico, con el propósito de obtener un beneficio común. A diferencia del joint venture, el consorcio no crea una nueva persona jurídica: cada participante mantiene su identidad legal y responde de manera independiente por sus obligaciones.
           
     .row.justify-content-center.align-items-center.mb-4
@@ -515,7 +515,7 @@
           .tarjeta.color-primario.w-100
             .p-4
               h5.text-center Consejo de administración o junta directiva
-              p.text-center Es el órgano encargado de orientar la gestión general de la organización y de ejecutar las decisiones adoptadas por la asamblea general. Define planes, programas y políticas, reglamenta los servicios y realiza seguimiento al cumplimiento de los objetivos institucional
+              p.text-center Es el órgano encargado de orientar la gestión general de la organización y de ejecutar las decisiones adoptadas por la asamblea general. Define planes, programas y políticas, reglamenta los servicios y realiza seguimiento al cumplimiento de los objetivos institucional.
       .col-lg-5
         .tarjeta-avatar.h-100
           img(src='@/assets/curso/temas/tema3/img41.svg' alt='AvatarTop')
@@ -615,7 +615,7 @@
         LineaTiempoD.color-acento-botones
           .row(numero="1" titulo="Según los asuntos a tratar")
             .col-md-12
-              p Se clasifican de acuerdo con la finalidad de la reunión y los temas que se deben analizar y decidir:
+              p Se clasifican de acuerdo con la finalidad de la reunión y los temas que se deben analizar y decidir dentro de la organización.
               ul.lista-ul
                 li #[b • Asamblea de constitución:] formaliza la creación de la organización y aprueba los primeros estatutos.
                 li #[b • Asamblea ordinaria:] se realiza periódicamente para atender asuntos regulares, como informes, excedentes y elecciones.
@@ -624,7 +624,7 @@
 
           .row(numero="2" titulo="Según los asistentes")
             .col-md-12
-              p Se organizan en función de quiénes participan en la toma de decisiones:
+              p Se organizan en función de quiénes participan en la toma de decisiones dentro de la asamblea.
               ul.lista-ul
                 li #[b • Asamblea de asociados:] participan directamente todos los miembros hábiles de la organización. 
                 li #[b • Asamblea de delegados:] participan representantes elegidos cuando el número de asociados o las condiciones lo requieren.

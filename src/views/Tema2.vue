@@ -264,61 +264,61 @@
                   th.text-center Contenido principal
               tbody
                 tr
-                  th.bg-crema-claro.text-center I
+                  th I
                   td Disposiciones generales.
                   td Naturaleza, razón social, domicilio, ámbito territorial de operaciones y duración.
                 tr
-                  th.bg-crema-claro.text-center II
+                  th II
                   td Objeto del acuerdo cooperativo y actividades.
-                  td Objeto social, actividad socioeconómica, servicios y medios de producción.
+                  td Objeto social, actividad, acuerdo cooperativo, actividad socioeconómica, servicios, medios de producción, entre otros.
                 tr
-                  th.bg-crema-claro.text-center III
+                  th III
                   td Asociados.
-                  td Calidad del asociado, requisitos de admisión, derechos, deberes y retiro.
+                  td Calidad del asociado, requisitos de admisión, derechos y deberes, pérdida de calidad de asociado, entre otros.
                 tr
-                  th.bg-crema-claro.text-center IV
+                  th IV
                   td Régimen disciplinario.
-                  td Normas de disciplina, faltas, clases y graduación de las sanciones.
+                  td Normas de disciplina, clases y graduación de sanciones, entre otros.
                 tr
-                  th.bg-crema-claro.text-center V
-                  td Solución de conflictos.
-                  td Mecanismos de solución como conciliación y procedimientos para resolver diferencias.
+                  th V
+                  td Solución de conflictos transigibles.
+                  td Mecanismos de solución de conflictos como conciliación y procedimientos para resolver diferencias en el régimen de trabajo.
                 tr
-                  th.bg-crema-claro.text-center VI
-                  td Administración.
-                  td Órganos de dirección (asamblea, consejo, comités) y funciones del gerente.
+                  th VI
+                  td Administración de la cooperativa.
+                  td Órganos de dirección (asamblea, consejo de administración, comités), tipos de asambleas, elección y funciones del gerente.
                 tr
-                  th.bg-crema-claro.text-center VII
-                  td Inspección y vigilancia.
-                  td Órganos de control social, como la **junta de vigilancia**.
+                  th VII
+                  td Inspección y vigilancia
+                  td Órganos de control social como la junta de vigilancia.
                 tr
-                  th.bg-crema-claro.text-center VIII
+                  th VIII
                   td Régimen económico.
-                  td Patrimonio, aportes sociales, revalorización y fondos de reserva.
+                  td Patrimonio, aportes, aportes extraordinarios, revalorización de aportes, entre otros.
                 tr
-                  th.bg-crema-claro.text-center IX
-                  td Relación de trabajo.
-                  td Organización del trabajo y regulación del contenido del régimen laboral asociado.
+                  th IX
+                  td Regulación de relación de trabajo asociado.
+                  td Organización del trabajo, regulación y contenido del régimen de trabajo.
                 tr
-                  th.bg-crema-claro.text-center X
-                  td Incompatibilidades.
-                  td Prohibiciones generales y específicas para directivos y asociados.
+                  th X
+                  td Incompatibilidades y prohibiciones.
+                  td Incompatibilidades generales y específicas en reglamentos.
                 tr
-                  th.bg-crema-claro.text-center XI
+                  th XI
                   td Régimen de responsabilidad.
-                  td Responsabilidad de la entidad, de los asociados y frente a terceros.
+                  td Responsabilidad de la cooperativa, de los trabajadores asociados y frente a acreedores.
                 tr
-                  th.bg-crema-claro.text-center XII
-                  td Transformaciones.
-                  td Procesos de fusión, incorporación, escisión y transformación jurídica.
+                  th XII
+                  td Fusión, incorporación, escisión y transformación.
+                  td Procesos y decisiones para transformación de la cooperativa.
                 tr
-                  th.bg-crema-claro.text-center XIII
-                  td Disolución y liquidación.
-                  td Causales de terminación, funciones del liquidador y destino del remanente.
+                  th XIII
+                  td Disolución para liquidación.
+                  td Causales de disolución, funciones del liquidador y compromisos durante la liquidación.
                 tr
-                  th.bg-crema-claro.text-center XIV
+                  th XIV
                   td Disposiciones finales.
-                  td Períodos de cargos, reglamentación del estatuto y reformas estatutarias.
+                  td Términos, períodos, reglamentación del estatuto y reformas estatutarias.
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-9
@@ -421,34 +421,34 @@
     
     SlyderF.mb-4(columnas="col-md-4 col-lg-4 col-xl-4")
       .tarjeta.tarjeta-slyderf.tarjeta.tarjeta-bg09.p-4
-        .row.justify-content-center
+        .row.justify-content-center.mb-3
           .col-6
             img(src='@/assets/curso/temas/tema2/img28.svg' alt='Icono')
-        h4.text-center Vínculo asociativo y laboral:
+        h5.text-center Vínculo asociativo y laboral
         p.text-center Los estatutos de una CTA definen el "Acuerdo Cooperativo de Trabajo Asociado", que regula la actividad física o intelectual autogestionada, diferenciándose de las cooperativas de ahorro o servicios.
       .tarjeta.tarjeta-slyderf.tarjeta.tarjeta-bg09.p-4
-        .row.justify-content-center
+        .row.justify-content-center.mb-3
           .col-6
             img(src='@/assets/curso/temas/tema2/img29.svg' alt='Icono')
-        h4.text-center Compensaciones y retribución:
+        h5.text-center Compensaciones y retribución
         p.text-center A diferencia de mutuales o cooperativas de servicios, la CTA estatuye mecanismos de "compensación" por el trabajo realizado, no salarios.
       .tarjeta.tarjeta-slyderf.tarjeta.tarjeta-bg09.p-4
         .row.justify-content-center.mb-3
           .col-6
             img(src='@/assets/curso/temas/tema2/img30.svg' alt='Icono')
-        h4.text-center Primacía del trabajo:
+        h5.text-center Primacía del trabajo
         p.text-center Los estatutos enfatizan que el ser humano y su trabajo tienen primacía sobre los medios de producción.
       .tarjeta.tarjeta-slyderf.tarjeta.tarjeta-bg09.p-4
         .row.justify-content-center.mb-3
           .col-6
             img(src='@/assets/curso/temas/tema2/img31.svg' alt='Icono')
-        h4.text-center Autogestión y autogobierno:
+        h5.text-center Autogestión y autogobierno
         p.text-center Los asociados fijan sus propias reglas y autogobiernan la organización.
       .tarjeta.tarjeta-slyderf.tarjeta.tarjeta-bg09.p-4
         .row.justify-content-center.mb-3
           .col-6
             img(src='@/assets/curso/temas/tema2/img32.svg' alt='Icono')
-        h4.text-center Regímenes especiales:
+        h5.text-center Regímenes especiales
         p.text-center Los estatutos deben incluir regímenes de trabajo y de compensaciones, definidos específicamente para la CTA.
 
     .row.justify-content-center.mb-4

@@ -47,8 +47,16 @@
                 li #[b •] Aprobar el nombre, el domicilio y el objeto social de la organización.
                 li #[b •] Elegir los miembros del consejo de administración, la junta de vigilancia y el revisor fiscal.
                 li #[b •] Elaborar y firmar el acta de constitución con la participación de todos los asistentes.
-                
-          .row(numero="3" titulo="Registro en cámara de comercio")
+          
+          .row(numero="3" titulo="Elaboración de estatutos")
+            .col-md-12
+              p Proceso de redacción del documento normativo que regula el funcionamiento interno de la organización: sus órganos, los derechos y deberes de los asociados, el régimen económico y los mecanismos de toma de decisiones. Este documento debe contemplar, entre otros aspectos:
+              ul.lista-ul
+                li #[b •] Los elementos mínimos exigidos por la Ley 454 de 1998 y la normativa específica del tipo de organización.
+                li #[b •] El régimen de aportes, la distribución de excedentes y las causales de retiro o exclusión de asociados.
+                li #[b •] La aprobación en asamblea antes de su presentación ante la Cámara de Comercio.
+              
+          .row(numero="4" titulo="Registro en cámara de comercio")
             .col-md-12
               p Trámite mediante el cual la organización obtiene personería jurídica e inscribe su existencia, sus estatutos y sus representantes legales ante el registro público de entidades solidarias. Para completar este registro se requiere:
               ul.lista-ul
@@ -56,7 +64,7 @@
                 li #[b •] Los formularios de registro diligenciados en la Cámara de Comercio del domicilio de la organización.
                 li #[b •] El pago de los derechos de inscripción y la obtención del certificado de existencia y representación legal.
                    
-          .row(numero="4" titulo="Registro Único Tributario (RUT)")
+          .row(numero="5" titulo="Registro Único Tributario (RUT)")
             .col-md-12
               p Inscripción ante la Dirección de Impuestos y Aduanas Nacionales (DIAN) mediante la cual la organización obtiene su Número de Identificación Tributaria (NIT) y queda habilitada para cumplir sus obligaciones fiscales dentro del régimen especial sin ánimo de lucro. Este registro implica:
               ul.lista-ul
@@ -64,7 +72,7 @@
                 li #[b •] La definición de las responsabilidades tributarias aplicables al tipo de organización solidaria.
                 li #[b •] La obtención del NIT, indispensable para emitir facturas, firmar contratos y realizar operaciones financieras.
                    
-          .row(numero="5" titulo="Apertura de cuenta bancaria")
+          .row(numero="6" titulo="Apertura de cuenta bancaria")
             .col-md-12
               p Gestión que permite a la organización administrar sus recursos financieros de manera formal, transparente y trazable, separando el patrimonio de la entidad de sus asociados o representantes legales. Para dar la apertura, la entidad financiera generalmente solicita:
               ul.lista-ul
@@ -72,7 +80,7 @@
                 li #[b •] El documento de identidad del representante legal y el acta de su nombramiento debidamente inscrita.
                 li #[b •] La definición de los mecanismos internos de autorización para el manejo de los recursos de la cuenta.
                    
-          .row(numero="6" titulo="Registro en la Supersolidaria:")
+          .row(numero="7" titulo="Registro en la Supersolidaria:")
             .col-md-12
               p Inscripción obligatoria ante la Superintendencia de la Economía Solidaria, entidad que ejerce funciones de inspección, vigilancia y control sobre las organizaciones del sector, garantizando su operación dentro del marco legal vigente. Este proceso implica:
               ul.lista-ul

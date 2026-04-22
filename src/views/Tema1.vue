@@ -669,7 +669,7 @@
           .tarjeta.color-primario.w-100
             .p-4
               h2.text-center 
-              p.text-center.mb-0 #[b Participación democrática:] principio que promueve la ayuda mutua y el bienestar común entre los miembros, anteponiendo el interés colectivo al individual.
+              p.text-center.mb-0 #[b Participación democrática:] mecanismo mediante el cual todos los asociados tienen igual derecho a intervenir en la toma de decisiones, independientemente del monto de sus aportes.
       .col-lg-3
         .tarjeta-avatar.h-100
           img(src='@/assets/curso/temas/tema1/img48.svg' alt='AvatarTop')

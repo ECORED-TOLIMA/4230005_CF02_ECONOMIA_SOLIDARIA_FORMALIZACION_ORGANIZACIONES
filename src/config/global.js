@@ -186,7 +186,7 @@ export default {
         'proceso mediante el cual una organización adquiere reconocimiento jurídico, tributario y administrativo ante el Estado, lo que le permite operar legalmente, contratar y acceder a financiación.',
     },
     {
-      termino: 'Joint venture',
+      termino: '<em>Joint venture</em>',
       significado:
         'alianza estratégica entre dos o más organizaciones con personería jurídica independiente que aportan recursos para desarrollar un proyecto específico, compartiendo proporcionalmente los riesgos y los beneficios.',
     },
