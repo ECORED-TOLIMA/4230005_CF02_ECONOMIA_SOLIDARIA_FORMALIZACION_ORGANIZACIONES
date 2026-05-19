@@ -71,37 +71,37 @@
                   th.text-center.w-40 Propósito en la organización
               tbody
                 tr
-                  th.bg-crema-claro.text-center Propiedad colectiva
+                  th Propiedad colectiva
                   td La organización pertenece a todos sus asociados, quienes participan en igualdad de condiciones en su gestión.
-                  td Garantizar la participación equitativa y el sentido de pertenencia de todos los miembros.
+                  td Garantizar la participación equitativa y el sentido de pertenencia.
                 tr
-                  th.bg-crema-claro.text-center Gobierno democrático
-                  td Cada asociado tiene derecho a **un voto**, independientemente del valor de sus aportes económicos.
-                  td Promover la toma de decisiones justas, participativas y centradas en la persona.
+                  th Gobierno democrático
+                  td Cada asociado tiene derecho a un voto, sin importar el valor de sus aportes económicos.
+                  td Promover decisiones justas y participativas.
                 tr
-                  th.bg-crema-claro.text-center Ingreso de asociados
-                  td El estatuto define los requisitos y condiciones para que una persona pueda vincularse formalmente.
-                  td Asegurar procesos de vinculación claros, transparentes y organizados bajo el principio de puertas abiertas.
+                  th Ingreso de asociados
+                  td El estatuto define los requisitos y condiciones para que una persona pueda vincularse a la organización.
+                  td Asegurar procesos claros, transparentes y organizados.
                 tr
-                  th.bg-crema-claro.text-center Derechos y deberes
-                  td Establece el marco de responsabilidades y beneficios que adquiere el asociado al ingresar.
-                  td Favorecer la sana convivencia, el compromiso mutuo y la corresponsabilidad institucional.
+                  th Derechos y deberes
+                  td Se establecen las responsabilidades y beneficios de los asociados dentro de la organización.
+                  td Favorecer la convivencia, el compromiso y la corresponsabilidad.
                 tr
-                  th.bg-crema-claro.text-center Órganos de administración
-                  td Instancias de dirección y control, como la **Junta Directiva**, el **Consejo de Administración** y la **Junta de Vigilancia**.
-                  td Garantizar la estructura organizativa, el control social y el cumplimiento de los objetivos misionales.
+                  th Órganos de administración y vigilancia
+                  td Se determinan las instancias de dirección y control, como Junta Directiva o Consejo de Administración.
+                  td Garantizar la organización, control y buen funcionamiento.
                 tr
-                  th.bg-crema-claro.text-center Aportes sociales
-                  td Define la forma en que los asociados contribuyen económicamente al capital de la organización.
-                  td Fortalecer la base patrimonial y asegurar la sostenibilidad financiera a largo plazo.
+                  th Aportes sociales
+                  td Define cómo los asociados contribuyen económicamente al sostenimiento de la organización.
+                  td Fortalecer la base económica y la sostenibilidad.
                 tr
-                  th.bg-crema-claro.text-center Distribución de excedentes
-                  td Los beneficios netos se reinvierten en servicios o reservas, no se reparten como utilidades privadas.
-                  td Priorizar el bienestar colectivo y el fortalecimiento de la entidad sobre el interés individual.
+                  th Distribución de excedentes
+                  td Los beneficios no se reparten como utilidades, sino que se reinvierten en la organización.
+                  td Priorizar el bienestar colectivo sobre el interés individual.
                 tr
-                  th.bg-crema-claro.text-center Fondos sociales
-                  td Reserva de recursos destinados legalmente a la **educación, solidaridad y bienestar social**.
-                  td Generar impacto social positivo, formación continua y apoyo solidario a la comunidad.
+                  th Fondos sociales (educación y solidaridad)
+                  td Parte de los excedentes se destina a formación, apoyo social o mejora de servicios.
+                  td Generar impacto social y desarrollo comunitario.
 
     p.mb-4 Los elementos presentados evidencian cómo el modelo estatutario orienta la organización interna, la toma de decisiones y la gestión de los recursos en las entidades de economía solidaria. Cada componente cumple una función específica que contribuye al fortalecimiento de la participación democrática, la equidad y la sostenibilidad organizacional.
 

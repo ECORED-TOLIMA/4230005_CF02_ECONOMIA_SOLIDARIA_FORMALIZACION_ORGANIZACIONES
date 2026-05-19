@@ -249,10 +249,13 @@
                         | Se realiza fuera del calendario habitual.
                       li 
                         i.fas.fa-angle-right
-                        | Trata únicamente temas específicos de la convocatoria.
+                        | Trata temas específicos.
                       li 
                         i.fas.fa-angle-right
-                        | Resuelve situaciones críticas o urgentes.
+                        | Puede ser solicitada por órganos de dirección o asociados.
+                      li 
+                        i.fas.fa-angle-right
+                        | Resuelve situaciones críticas.
                   td Un fondo de empleados convoca una reunión urgente para nombrar un gerente tras una renuncia inesperada.
                 tr
                   th.bg-crema-claro.text-center Asamblea de delegados
@@ -631,7 +634,7 @@
                 li #[b Ejemplo:] una cooperativa de confección donde los asociados trabajan y reciben ingresos según su participación.
           .row(numero="G" titulo="Administraciones públicas cooperativas") 
             .col-md-12   
-              p.mb-0 Son entidades creadas para gestionar servicios públicos bajo principios cooperativos, con participación de la comunidad. E
+              p.mb-0 Son entidades creadas para gestionar servicios públicos bajo principios cooperativos, con participación de la comunidad.
               ul.lista-ul
                 li #[b Ejemplo:] una organización que administra el servicio de acueducto en una comunidad rural.
   

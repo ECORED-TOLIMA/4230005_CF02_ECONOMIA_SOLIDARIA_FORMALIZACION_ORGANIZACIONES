@@ -99,6 +99,10 @@
                 tr
                   td Regiones administrativas y de planificación.
                   td.text-center 8
+                tr
+                  td Total de esquemas registrados.
+                  td.text-center 66
+
             figcaption #[b Nota.] Adaptado de Sistema de Registro de Esquemas Asociativos, por Ministerio del Interior, 2023.
 
     .row.justify-content-center.align-items-center.mb-4

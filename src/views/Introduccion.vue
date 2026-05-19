@@ -29,7 +29,7 @@
               figure
                 img(src='@/assets/curso/temas/intro/img2.svg', width='180', alt='Texto que describa la imagen')
             .col-lg-10
-              p.mb-0 El contenido parte del concepto de formalización y avanza de manera progresiva hacia los tipos de organizaciones solidarias, su estructura de gobierno, el papel de los estatutos como norma interna y, finalmente, la ruta de constitución con sus pasos concretos. Cada sección está pensada para que los fundamentos se comprendan primero y se apliquen después, de manera que al finalizar el componente se cuente con una visión completa y ordenada del proceso de creación de una organización solidaria en Colombia. Para comenzar este recorrido, se recomienda ver el siguiente video introductorio:
+              p.mb-0 El contenido parte del concepto de formalización y avanza de manera progresiva hacia los tipos de organizaciones solidarias, su estructura de gobierno, el papel de los estatutos como norma interna y, finalmente, la ruta de constitución con sus pasos concretos. Cada sección está pensada para que los fundamentos se comprendan primero y se apliquen después, de manera que al finalizar el componente se cuente con una visión completa y ordenada del proceso de creación de una organización solidaria en Colombia. Para comenzar este recorrido, se presenta el siguiente video introductorio:
 
     .row.justify-content-center.align-items-center
       .col-lg-12
